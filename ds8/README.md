@@ -1,0 +1,1 @@
+These notebooks and associated files were forked from the [Berkeley Data 8] GitHub [repository]() at SHA 1ee8ba34b2f7bae7962fdec97ec5e7397046ba8c
