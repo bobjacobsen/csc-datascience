@@ -5,9 +5,9 @@ They were presented in the order:
  - lec/lec12.ipynb
  - lec/lec19.ipynb
  - lec/lec07.ipynb
- - ES-21AC-SP19
+ - ES-21AC-SP19/final_notebook1.ipynb
  - lec/lec01.ipynb
- - XRHETOR-R1A
+ - XRHETOR-R1A/02-Moral-Foundations-Analysis/02-Moral-Foundations-Analysis.ipynb
  
  A page similar to the online crime display can be found [here](https://try.dominodatalab.com/u/joshpoduska/crimemaps/view/main_py_notebook.ipynb).
  
